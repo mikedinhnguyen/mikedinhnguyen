@@ -7,9 +7,10 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ``` swift
-struct Mike{
+struct Mike {
     let code = ["Java", "Swift", "Git", "HTML", "CSS", "Python", "C++"]
-    let skills = ["data structures", "algorithms", "object-oriented programming", "problem solver"]
+    let skills = ["data structures", "algorithms", "object-oriented programming", 
+                  "problem solver"]
     let programs = ["GitHub", "Xcode", "Eclipse"]
     let askMeAbout = ["mobile dev", "video games", "mathematics"]
     let currentProject = "personal iOS projects"
