@@ -1,4 +1,4 @@
-<h2>Hello World! I'm Michael (Mike) Nguyen! <img src="https://static.dribbble.com/users/94656/screenshots/1141726/terminal2.gif" width="50"></h2>
+<h2>Hello World! I'm Michael (Mike) Nguyen! <img src="https://media1.giphy.com/media/eltkEbq0Zl4aGQHisf/giphy.gif" width="25"></h2>
 <img align='right' src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e473stqkiqj1swhvzrcvfn9qedz1wyzcth49dbate1q&rid=giphy.gif" width="230">
 <h3> Recent graduate with Bachelor's looking for software engineering positions! </h3>
 
