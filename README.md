@@ -8,12 +8,12 @@
 
 ``` swift
 struct Mike {
-    let code = ["Java", "Swift", "Git", "HTML", "CSS", "Python", "C++"]
-    let skills = ["data structures", "algorithms", "object-oriented programming", 
-                  "problem solver"]
+    let code = ["Java", "Swift", "Git", "HTML", "CSS", "JavaScript", "C++"]
+    let skills = ["data structures", "algorithms", 
+                  "object-oriented programming", "problem solver"]
     let programs = ["GitHub", "Xcode", "Eclipse"]
     let askMeAbout = ["mobile dev", "video games", "mathematics"]
-    let currentProject = "personal iOS projects"
+    let currentProject = "100 sites in 100 days"
 }
 ```
 
