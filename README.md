@@ -12,8 +12,7 @@ struct Mike {
     let skills = ["data structures", "algorithms", 
                   "object-oriented programming", "problem solver"]
     let programs = ["GitHub", "Xcode", "Eclipse"]
-    let askMeAbout = ["mobile dev", "video games", "mathematics"]
-    let currentProject = "100 sites in 100 days"
+    let askMeAbout = ["mobile dev", "web dev", "video games", "mathematics"]
 }
 ```
 
